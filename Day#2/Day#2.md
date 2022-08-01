@@ -683,3 +683,10 @@
 
 
 
+
+عند ظهور رسالة تطلب منك token access قم باتباع الخطوات التالية:
+
+
+
+https://techglimpse.com/git-push-github-token-based-passwordless/
+
